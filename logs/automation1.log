@@ -1,0 +1,21 @@
+20:26:40.088 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Providing Customer Details****
+20:26:40.886 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+20:26:40.917 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+20:26:45.047 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+20:26:45.845 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest****
+20:40:08.958 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+20:40:09.007 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked On MyAccount Link****
+20:40:09.597 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked On Register Link****
+20:40:09.598 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Providing Customer Details****
+20:40:10.365 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+20:40:10.385 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+20:40:13.991 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+20:40:14.742 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest****
+20:48:03.604 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+20:48:03.658 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked On MyAccount Link****
+20:48:04.485 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked On Register Link****
+20:48:04.486 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Providing Customer Details****
+20:48:05.660 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Validating Expected Message****
+20:48:05.689 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+20:48:10.130 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+20:48:10.915 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest****
